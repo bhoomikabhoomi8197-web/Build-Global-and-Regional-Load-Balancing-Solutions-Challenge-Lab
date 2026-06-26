@@ -17,7 +17,7 @@ If you found this helpful, please **Subscribe** to [bhoomika R](https://www.yout
 ### ©Credit
 - **DM for credit or removal request (no copyright intended) ©All rights and credits for the original content belong to Google Cloud [Google Cloud Skill Boost website](https://www.cloudskillsboost.google/)** 🙏
 
-## Task 1: ek bina md file wala aur ek chatgpt se  thumbnail copy krne wala banda isko copy karega aur bolega github nahi use krna (not for subscribers)
+## Task 1: 
 
 ### 1. Create Regional MIG
 
