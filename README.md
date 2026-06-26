@@ -153,9 +153,9 @@ sudo chmod +x README.sh
 ./README.sh
 ```
 ```
-curl -LO https://raw.githubusercontent.com/Itsabhishek7py/GoogleCloudSkillsboost/refs/heads/main/Build%20Global%20and%20Regional%20Load%20Balancing%20Solutions%3A%20Challenge%20Lab/drabhishek1.sh
-sudo chmod +x drabhishek1.sh
-./drabhishek1.sh
+curl -LO https://raw.githubusercontent.com/bhoomikabhoomi8197-web/Build-Global-and-Regional-Load-Balancing-Solutions-Challenge-Lab/refs/heads/main/README1.sh
+sudo chmod +x README1.sh
+./README1.sh
 ```
 ```
 curl http://[LB_IP]:110
